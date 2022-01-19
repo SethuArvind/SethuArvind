@@ -7,7 +7,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/SethuArvind)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SethuArvind)
 
-- 🌱 I’m New to Programming, So I'm Learning Everything 🤣
 - 👯 I’m looking to make **Connections and Colaborate with Peoples***
 - 🥅 2021 Goals: **Mastering Data Structures and Algorithms**
 - 🔭 I just launched my Youtube Channel 
