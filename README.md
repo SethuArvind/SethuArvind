@@ -2,10 +2,10 @@
 
 ### I'm a Student, Developer and Youtuber
 
-[![Visitors](https://komarev.com/ghpvc/?username=kesavan-raman&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Kesavan-Raman)
-[![GitHub followers](https://img.shields.io/github/followers/kesavan-raman.svg?style=social&label=Follow)](https://github.com/Kesavan-Raman?tab=followers)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Kesavan-Raman)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kesavan-Raman)
+[![Visitors](https://komarev.com/ghpvc/?username=SethuArvind&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/SethuArvind)
+[![GitHub followers](https://img.shields.io/github/followers/SethuArvind.svg?style=social&label=Follow)](https://github.com/SethuArvind?tab=followers)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/SethuArvind)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SethuArvind)
 
 - 🌱 I’m New to Programming, So I'm Learning Everything 🤣
 - 👯 I’m looking to make **Connections and Colaborate with Peoples***
@@ -55,5 +55,5 @@
 </details>
 
 [twitter]: https://twitter.com/sethuarvind
-[instagram]: https://www.instagram.com/_silent_eyes003_/
+[instagram]: https://www.instagram.com/_.ms.arvind._/
 [linkedin]: https://www.linkedin.com/in/sethu-arvind-25b70b122/
