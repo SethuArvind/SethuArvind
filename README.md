@@ -40,7 +40,7 @@
 <h2 align="center"> My Streak </h3>
 
 <p align = "center">
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=kesavan-raman&line_height=30&">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=SethuArvind&line_height=30&">
 </p>
 
 </details>
