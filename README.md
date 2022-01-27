@@ -1,6 +1,6 @@
-<h1 align="left"> Hi Devs 👋 </h1>
+<h1 align="left"> Sethu Arvind </h1>
 
-### I'm a Student, Developer and Youtuber
+### I'm a Student, Developer
 
 [![Visitors](https://komarev.com/ghpvc/?username=SethuArvind&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/SethuArvind)
 [![GitHub followers](https://img.shields.io/github/followers/SethuArvind.svg?style=social&label=Follow)](https://github.com/SethuArvind?tab=followers)
@@ -8,10 +8,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SethuArvind)
 
 - 👯 I’m looking to make **Connections and Colaborate with Peoples***
-- 🥅 2021 Goals: **Mastering Data Structures and Algorithms**
-- 🔭 I just launched my Youtube Channel 
+- 🥅 2021 Goals: **Aiming to become a Developer**
 - ⚡ Fun fact: I love Crypto Market and Buying Stocks
-- 💬 Ask me about **Why Linux is Better than Windows? 🤣**
+- 💬 Ask me about **Why Linux is Better than Windows?**
 
 
 ### Connect with me:
